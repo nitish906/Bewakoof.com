@@ -16,22 +16,7 @@ JAVASCRIPT
 Features
 Login / Sign Up Product page for different categories. Detailed product preview page. Review to the product/Differenct Sectional View of the product Add to cart , option to buy products. Payment Page with Card,UPI,Wallet and Cash on Delivery Options
 
-Screenshots
-Screenshot 
 
-Screenshot 
-
-Screenshot
-
-Screenshot
-
-Screenshot 
-
-Screenshot
-
-Screenshot
-
-Screenshot
 
 Challenges
 1.As every journey has some challenges and so was ours. We faced challenges to make a more secure user interface. We implemented some major authentication and autherization functionality due to which sometimes it became very complicated to login a user then we change the structure and made a good user interface to login.
